@@ -1,0 +1,12 @@
+Swift Unit Testing
+
+This is my first attempt trying unit testing in Swift v5.5.
+
+ERROR
+
+It is broken currently and I have found no solutions available online.
+
+Tests/LinuxMain.swift:7:1: error: expressions are not allowed at the top level
+XCTMain([ testCase(CalculatorTests.allTests) ])
+^
+error: fatalError
